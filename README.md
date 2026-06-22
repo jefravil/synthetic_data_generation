@@ -217,3 +217,9 @@ output/
 | `Pillow` | Procesamiento de imágenes |
 | `scikit-image` | Métricas SSIM |
 | `plotly` | Visualización 3D interactiva |
+
+## 12. Prompt usado para generacion de cacaos sinteticos
+
+    "img2img_prompt": "diseased cacao pod, tropical disease, macro photography, sharp focus,  cocoa pot has dark spots that look wet",
+    "img2img_negative_prompt": "blurry, low quality, artifact, watermark, cartoon, illustration",
+
